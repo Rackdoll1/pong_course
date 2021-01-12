@@ -1,1 +1,1 @@
-Pong
+Project  for learning basics of game develoment and versioning using GitKraken and GItHub.
